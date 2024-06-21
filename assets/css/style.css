@@ -292,6 +292,25 @@ footer {
     margin: 40px 20px;
 }
 
+/* ----------------------------------------Websites section */
+.preview-image {
+    width: auto;
+    height: auto;
+    margin-right: 10px;
+    display: block;
+    margin: 0 auto;
+}
+.list-group-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.list-group-item span {
+    flex: 1;
+    margin-left: 10px;
+    text-align: left;
+}
+
 /* ----------------------------------------Work History */
 
 .history-heading {
