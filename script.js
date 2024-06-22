@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const websites = [
-        { name: "Website 1", url: "https://arcadejk.github.io/love-math/", image: "assets/images/website1.png" },
+        { name: "Love Maths", url: "https://arcadejk.github.io/love-math/", image: "assets/images/website1.png" },
         { name: "Website 2", url: "https://arcadejk.github.io/movies-reacts-playlist/", image: "assets/images/website2.png" },
         { name: "Website 3", url: "https://loves-sandwiches-arcade-5cd3a5ebfca2.herokuapp.com/", image: "assets/images/website3.png" },
         { name: "Website 4", url: "https://arcadejk.github.io/Love-Running-Project/", image: "assets/images/website4.png" },
