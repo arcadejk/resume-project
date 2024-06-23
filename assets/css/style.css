@@ -293,12 +293,13 @@ footer {
 }
 
 /* ----------------------------------------Websites section */
+
 .preview-image {
     width: auto;
     height: auto;
-    margin-right: 10px;
     display: block;
     margin: 0 auto;
+    align-items: center;
 }
 .list-group-item {
     display: flex;
